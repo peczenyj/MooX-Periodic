@@ -14,8 +14,6 @@ sub run {
     say "example total=$total";
 
     die "ops" unless $total < 3;
-
-    return $total < 5;
 }
 
 1;
