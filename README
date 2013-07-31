@@ -1,0 +1,8 @@
+MooX::Periodic - Moo Role to provide backend to run periodic code.
+
+
+$ perl -Ilib ./bin/a.pl 
+example total=1
+example total=2
+example total=3
+2013-08-01 01:34:46.292463 +0200 error MooX::Periodic: Exception: ops at ./bin/a.pl line 16.
